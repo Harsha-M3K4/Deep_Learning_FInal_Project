@@ -1,1 +1,1 @@
-# Deep_Learning_FInal_Project
+# This is our Final Project for the Deep Learning Course.
